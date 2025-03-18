@@ -1,23 +1,29 @@
-# 📉 Customer Churn Prediction 🚀  
+# 📉 Customer Churn Analysis 🚀  
 
 ## 🔍 Overview  
-This project aims to predict customer churn using **Python (Pandas, Scikit-learn), SQL, and Power BI**.  
+This project analyzes **customer churn patterns** using **SQL and Power BI** to help businesses improve customer retention.  
 
 ## 📂 Files in This Repository  
-📌 `churn_analysis.py` – Python script for churn prediction  
-📌 `churn_queries.sql` – SQL queries for data analysis  
+📌 `churn_queries.sql` – SQL queries for customer churn analysis  
 📌 `churn_dashboard.pbix` – Power BI dashboard  
-📌 `churn_data.csv` – Sample dataset  
+📌 `churn_data.csv` – Sample dataset used for analysis  
 
 ## 📊 Key Insights  
 ✔ Customers with **higher monthly charges** have a **higher churn rate**.  
-✔ **Longer contract customers** are less likely to churn.  
-✔ **Retention strategies** can be improved for at-risk customers.  
+✔ **Long-term contract customers** have lower churn compared to **month-to-month** contracts.  
+✔ Customers with **shorter tenure** are more likely to churn.  
+
+## 📈 Methodology  
+1️⃣ **Data Cleaning & Preprocessing** – Used SQL queries to clean and format the dataset.  
+2️⃣ **Exploratory Data Analysis (EDA)** – Identified key patterns in customer behavior.  
+3️⃣ **Power BI Visualization** – Created interactive dashboards to present findings.  
+
+## 📊 Power BI Dashboard  
+🔗 **[Download Power BI Dashboard](Your GitHub Power BI File Link Here)** *(Replace with actual link)*  
 
 ## 🛠 Tools Used  
-✔ **Python** (Pandas, Matplotlib, Scikit-learn)  
-✔ **SQL** (PostgreSQL for data extraction)  
-✔ **Power BI** (Interactive dashboard)  
+✔ **SQL** – PostgreSQL for data extraction & analysis  
+✔ **Power BI** – Data visualization & insights generation  
 
 ## 📢 Contact  
 👤 **Swaraj Borhade**  
