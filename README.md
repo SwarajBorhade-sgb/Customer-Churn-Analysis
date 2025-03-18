@@ -19,7 +19,7 @@ This project analyzes **customer churn patterns** using **SQL and Power BI** to 
 3️⃣ **Power BI Visualization** – Created interactive dashboards to present findings.  
 
 ## 📊 Power BI Dashboard  
-🔗 **[Download Power BI Dashboard](Your GitHub Power BI File Link Here)** *(Replace with actual link)*  
+🔗 **[Download Power BI Dashboard](churn_dashboard.pbix)** 
 
 ## 🛠 Tools Used  
 ✔ **SQL** – PostgreSQL for data extraction & analysis  
